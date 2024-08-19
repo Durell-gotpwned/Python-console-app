@@ -1,0 +1,29 @@
+Welcome to Microsoft Graph!
+
+Connected via delegated access using 14d82eec-204b-4c2f-b7e8-296a70dab67e
+Readme: https://aka.ms/graph/sdk/powershell
+SDK Docs: https://aka.ms/graph/sdk/powershell/docs
+API Docs: https://aka.ms/graph/docs
+
+NOTE: You can use the -NoWelcome parameter to suppress this message.
+
+App registration created with app ID 4d8ea478-53c2-4ea7-90ff-d2160e5066f5
+Service principal created
+Added application permissions to app registration
+Admin consent for one of the requested scopes could not be added.
+Insufficient privileges to complete the operation.
+
+Status: 403 (Forbidden)
+ErrorCode: Authorization_RequestDenied
+Date: 2024-08-19T01:19:31
+
+Headers:
+Transfer-Encoding             : chunked
+Vary                          : Accept-Encoding
+Strict-Transport-Security     : max-age=31536000
+request-id                    : 1111ba66-a1e4-4c33-b0f7-f92dc257f70b
+client-request-id             : 4730bc5b-c591-4b60-b7ad-56b3a4576fce
+x-ms-ags-diagnostic           : {"ServerInfo":{"DataCenter":"Canada East","Slice":"E","Ring":"3","ScaleUnit":"000","RoleInstance":"QB1PEPF0000579C"}}
+x-ms-resource-unit            : 1
+Cache-Control                 : no-cache
+Date                          : Mon, 19 Aug 2024 01:19:30 GMT
